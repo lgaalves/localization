@@ -3,7 +3,7 @@
 ### What is this repository for?
 This repository contains the code for the analysis reported in [Scientific Reports 12, 9086 (2022)](https://www.nature.com/articles/s41598-022-12067-x.pdf).
 
-# Summary
+### Summary
 
 <image src='featured.png' />
 
