@@ -17,10 +17,13 @@ Please note that this repository is not intended for wide-spread distribution. W
 ### Directory Structure 
 
 * [data](data) -- WIOD data;
-* [notebooks](notebooks) -- Jupyter notebooks;
-* [src](src) -- Python modules;
-* [results](results) -- Results of simulations;
 * [figures](figures) -- Figures are saved here;
+* [notebooks](notebooks) -- Jupyter notebooks;
+* [results](results) -- Results of simulations;
+* [scripts](scripts) -- Scripts to generate ensemble and parse data;
+* [src](src) -- Python modules;
+
+
 
 # Data 
 
