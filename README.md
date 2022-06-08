@@ -71,4 +71,4 @@ factoextra
 
 # Reference
 
-Luiz G. A. Alves, Giuseppe Mangioni, Francisco A. Rodrigues, Pietro Panzarasa, and Yamir Moreno, The rise and fall of countries in the global value chains. [Scientific Reports 12, 9086 (2022)3](https://www.nature.com/articles/s41598-022-12067-x.pdf)
+Luiz G. A. Alves, Giuseppe Mangioni, Francisco A. Rodrigues, Pietro Panzarasa, and Yamir Moreno, The rise and fall of countries in the global value chains. [Scientific Reports 12, 9086 (2022)](https://www.nature.com/articles/s41598-022-12067-x.pdf)
