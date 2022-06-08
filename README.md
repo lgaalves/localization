@@ -28,7 +28,7 @@ Please note that this repository is not intended for wide-spread distribution. W
 # Data 
 
 The WIOD data is freely available for download [here](http://www.wiod.org/database/wiots16).
-Download and store the dataset at the folder called data Then run the script `raw_to_edges.py` to generate the multilayer edge data. This is step is necessary before running the Jupyter notebooks. 
+Download and store the dataset at the folder called data Then run the script `raw_to_edges.py` to generate the multilayer edge data. This step is necessary before running the Jupyter notebooks. 
 
 # Jupyter notebooks' index
 
